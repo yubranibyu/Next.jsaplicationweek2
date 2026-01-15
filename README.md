@@ -1,1 +1,0 @@
-# Next.jsaplicationweek2
